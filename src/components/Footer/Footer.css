@@ -1,0 +1,12 @@
+.footer{
+    background: #333;
+    color: azure;
+    padding: 0%;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.footer p{
+    margin: 0;
+    padding: 0%;
+}

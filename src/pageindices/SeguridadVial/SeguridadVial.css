@@ -1,0 +1,25 @@
+.indicePrincipal{
+    background: #6F9DE8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.indices{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 15px 0;
+    text-decoration: none;
+}
+.indices:hover{
+    /* width: 100%; */
+    background: #D9D9D9;
+}
+
+.linkindices{
+    text-decoration: none;
+    color: black;
+}
